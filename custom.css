@@ -45,5 +45,16 @@ footer {
     height: 100%;
     color: white;
     text-align: center;
-   
+    
+}
+
+
+@media (max-width: 736px){
+.jumbo-1 {
+font-size: 22px !important;
+}
+
+  .jumbo-3{
+font-size: 20px !important;
+}
   }
